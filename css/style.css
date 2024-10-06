@@ -80,4 +80,7 @@ a{
     padding: 5px;
     background-color: #3882f6;
     color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    border-width: 0;
 }
