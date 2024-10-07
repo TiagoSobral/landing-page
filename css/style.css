@@ -91,7 +91,7 @@ a{
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 20px 100px 100px;
+    padding: 30px 100px 30px;
 }
 
 .info-title{
@@ -138,7 +138,7 @@ a{
 .third{
     display: flex;
     flex-direction: column;
-    padding: 100px 250px 100px;
+    padding: 50px 250px 50px;
     background-color: #e5e7eb;
 }
 
